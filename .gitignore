@@ -1,0 +1,5 @@
+brail/
+__pycache__/
+.pio/
+.vscode/
+*.pyc
