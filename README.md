@@ -24,8 +24,8 @@ To run the software proof-of-concept on your local machine:
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/YOUR_USERNAME/Smart-Braille-Slate.git](https://github.com/YOUR_USERNAME/Smart-Braille-Slate.git)
-   cd Smart-Braille-Slate
+   git clone [https://github.com/AxE-007/SmartBrailleSlate.git](https://github.com/AxE-007/SmartBrailleSlate.git)
+   cd SmartBrailleSlate
 
 2. **Set up the virtual environment:**
 python -m venv brail
